@@ -1,11 +1,10 @@
 package myPackage;
 
-public class Sample {
+public class Homepage {
 
 	public static void main(String[] args) {
 		
-		
-		System.out.println("Basic File and data");
+		System.out.println("Homepage test");
 
 	}
 
